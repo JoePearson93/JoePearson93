@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoePearson93&label=Profile views&color=0e75b6&style=flat" alt="JoePearson93" />
-</p>
-
 ---
 
 - 🔭 I'm currently working on **Containerising and deploying an app to AWS ECS using Docker, Terraform and GitHub Actions CI/CD**
@@ -73,17 +69,3 @@
 
 ---
 
-<h3 align="left">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoePearson93&theme=darkhub&no-frame=true&row=1" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JoePearson93&icon=0&color=0" alt="profile visits"/>
-</p>
----
-
-<h3 align="left">Contribution Graph:</h3>
-<picture>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/JoePearson93/JoePearson93/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
