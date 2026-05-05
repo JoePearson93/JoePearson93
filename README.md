@@ -34,9 +34,9 @@ I design and automate scalable cloud infrastructure with a focus on reliability,
 ## 🚀 Featured Projects
 
 ### [ECS Fargate Deployment - Threat Composer App](https://github.com/JoePearson93/fargate-threat-composer)
-Fully containerized threat modeling application deployed on AWS ECS Fargate with automated CI/CD pipeline. Features auto-scaling, load balancing, and secure container orchestration for production workloads.
+Containerised application deployed on AWS ECS Fargate with a production-grade infrastructure provisioned entirely with Terraform. Features load balancing, HTTPS termination, private networking and modular infrastructure as code following the DRY principle.
 
-**Tech Stack:** AWS ECS Fargate • Docker • AWS Application Load Balancer • Terraform • GitHub Actions • AWS ECR
+**Tech Stack:** AWS ECS Fargate • Docker • ALB • Terraform • ECR • GitHub Actions (coming soon)
 
 ---
 
