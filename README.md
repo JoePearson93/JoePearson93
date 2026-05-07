@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=header"/>
-<h1 align="center">Hi 👋, I'm Joe Pearson</h1>
+<h1 align="center">Hi 👋, I'm Joe</h1>
 <p align="center">
   <b>Cloud & DevOps Engineer | AWS | Terraform | Docker | CI/CD</b>
 </p>
